@@ -94,6 +94,9 @@ Here are some ideas to get you started:
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
        width="40" height="40" /> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+        height="40" /> </a>
+        <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img
+        src="https://v4.mui.com/static/logo_raw.svg" alt="sass" width="40"
         height="40" /> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
@@ -109,13 +112,11 @@ Here are some ideas to get you started:
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="40" height="40" /> </a>
-             <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
-        src="https://miro.medium.com/max/1200/1*i2skbfmDsHayHhqPfwt6pA.png" alt="python"
-        width="50" height="50" /> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+                      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>
+      alt="javascript" width="40" height="40" /> 
+</a>
        
  </p>
  <br>
