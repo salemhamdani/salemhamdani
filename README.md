@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="right"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Salem" /> </p>
-
 - 🔭 I’m currently working on creating LMS (learning management systems) with <a href="https://github.com/softsquareit" > SoftSquareIT </a>
 
 - ✨ I’m currently collaborating on two big projects : <a href="https://www.doranco.fr/" > Doranco </a> and <a href="https://www.okalee.fr" > Okalee </a>
