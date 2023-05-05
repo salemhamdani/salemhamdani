@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🔭 I’m currently working on creating LMS (learning management systems) with <a href="https://github.com/softsquareit" > SoftSquareIT </a>
+- 🔭 I’m currently working on creating LMS (learning management systems) with <a href="https://en.pt.software/" > P&T Software GmbH </a>
 
-- ✨ I’m currently collaborating on two big projects : <a href="https://www.doranco.fr/" > Doranco </a> and <a href="https://www.okalee.fr" > Okalee </a>
+- ✨ I’m currently collaborating on two big projects : <a href="https://legaltegrity.com" > LegalTegrity </a> and <a href="https://lintum.com/" > Lintum </a>
 
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning data science and machine learning.
 
 - 📫 How to reach me ** salemhamdani09@gmail.com **
 
