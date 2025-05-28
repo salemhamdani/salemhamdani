@@ -1,7 +1,5 @@
-
-
 <!--
-**salemhamdani/salemhamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**salemhamdani/salemhamdani** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,24 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center ">Hi visitor👋, I'm Salem HAMDANI 😄 </h1>
+<h1 align="center ">Hi visitor👋, I'm a Salem HAMDANI 😄 </h1>
 <h3 align="center">Student at the National Institute of Applied Science and Technology (INSAT)🌟.</h3>
 <br>
 <p align="right"> <h3>Profile Views :</h3><img src="https://komarev.com/ghpvc/?username=salemhamdani&label=Profile%20views&color=0e75b6&style=flat"
     alt="Salem" /> 
-</p>
+  </p>
 
 <br>
 
 - 🔭 I’m currently working on creating softwares with <a href="https://en.pt.software/" > P&T Software GmbH </a>
 
-- ✨ I’m currently collaborating on two big projects: <a href="https://legaltegrity.com" > LegalTegrity </a> and <a href="https://mindwaves-research.com/" > Mindwaves </a>
+- ✨ I’m currently collaborating on two big projects : <a href="https://legaltegrity.com" > LegalTegrity </a> and <a href="https://mindwaves-research.com/" > Mindwaves </a>
 
-- 🌱 I’m currently learning data science and machine learning.
+- 🌱 I’m currently doing research in machine learning at the University of British Columbia.
 
-- 📫 How to reach me: **salemhamdani09@gmail.com**
+-  👨‍💻 All of my projects are available at [https://salemhamdani.github.io/personal-website/](https://salemhamdani.github.io/personal-website/)
 
-- 🌐 Portfolio Website: [https://salemhamdani.github.io/personal-website/](https://salemhamdani.github.io/personal-website/)
+- 📫 How to reach me ** salemhamdani09@gmail.com **
 
 - ⚡ To travel is to live.
 
@@ -39,14 +37,22 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/salem-hamdani-6b0a6a16b/" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/salem.hamdani/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="mailto:salemhamdani09@gmail.com" target="blank">
-    <img align="center" src="https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/4/e/84e4ff1c1a_102482_gmail-logo-definition.jpg" alt="gmail" height="30" width="40" /></a>
-</p>
+    <a href="https://www.linkedin.com/in/salem-hamdani-6b0a6a16b/" target="blank"> 
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/salem.hamdani/" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="facebook" height="30" width="40" />
+    </a>
 
+<a href="#" target="blank">
+<img align="center" src="https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/4/e/84e4ff1c1a_102482_gmail-logo-definition.jpg"
+      alt="Salem" height="30" width="40" /></a>
+
+</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
